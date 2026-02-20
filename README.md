@@ -51,6 +51,7 @@ K-Means works in the following steps:
 - Matplotlib
 - Scikit-learn
 
-##AUTHOR 
--**NAME**-**NIKHIL POKALKAR**
--**EMAIL**-**pokalkarnikhil@gmail.com**
+## AUTHIOR
+
+- **NAME**-**NIKHIL POKALKAR**
+- **EMAIL**-**pokalkarnikhil@gmail.com**
